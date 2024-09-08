@@ -1,100 +1,100 @@
-Game 1: 12 blue, 15 red, 2 green; 17 red, 8 green, 5 blue; 8 red, 17 blue; 9 green, 1 blue, 4 red
-Game 2: 6 red, 6 blue, 2 green; 1 blue, 1 red; 6 green, 1 red, 10 blue
-Game 3: 1 green, 2 blue; 7 blue, 4 green; 2 green, 1 blue; 10 blue, 4 green; 4 blue; 1 green, 7 blue, 1 red
-Game 4: 16 red, 12 blue, 10 green; 15 red, 5 green, 6 blue; 10 green, 15 red, 12 blue
-Game 5: 2 green, 2 red, 9 blue; 1 red, 5 green; 4 green, 12 blue, 1 red; 5 blue, 8 green
-Game 6: 17 blue, 3 green, 4 red; 6 green, 16 blue, 3 red; 2 red, 15 blue
-Game 7: 4 green, 10 red; 1 green, 4 red, 4 blue; 4 blue, 11 red
-Game 8: 8 green, 4 blue; 17 green, 4 red; 10 blue, 5 green, 9 red; 9 green, 8 red, 3 blue; 9 green, 5 red, 2 blue
-Game 9: 4 red, 2 green; 7 blue, 3 red, 3 green; 3 green, 7 blue, 3 red
-Game 10: 3 green, 2 red, 2 blue; 3 green, 11 red, 1 blue; 16 green, 11 red
-Game 11: 2 blue, 18 green; 12 blue, 1 green; 2 green, 6 blue; 1 red, 4 blue, 20 green; 14 blue, 1 red, 4 green
-Game 12: 2 green, 1 blue, 7 red; 11 red, 3 green, 6 blue; 1 red, 2 blue, 3 green; 4 red, 2 green, 5 blue
-Game 13: 4 red, 17 blue, 5 green; 6 blue, 2 green; 12 blue, 4 green, 2 red; 5 green, 9 blue; 5 green, 3 blue, 3 red; 4 green, 1 red, 7 blue
-Game 14: 4 blue, 18 green; 3 blue, 3 red, 13 green; 5 blue, 10 green; 10 green, 2 blue; 1 blue, 14 green; 3 blue, 18 green, 2 red
-Game 15: 1 green, 2 blue, 1 red; 1 green, 2 red, 1 blue; 1 green, 2 red; 1 green, 4 blue, 4 red; 6 blue, 2 red, 1 green; 3 blue, 2 red
-Game 16: 3 green, 2 red; 4 green, 1 red, 8 blue; 5 blue, 9 red, 3 green; 7 blue, 19 green, 18 red
-Game 17: 10 blue, 9 red, 7 green; 16 red, 11 green, 11 blue; 8 blue, 3 green; 12 red, 1 blue, 10 green
-Game 18: 11 green, 11 blue, 5 red; 7 red, 11 green, 13 blue; 5 green, 9 red, 6 blue; 9 red, 16 green, 17 blue
-Game 19: 8 red, 3 green, 16 blue; 13 green, 8 blue; 7 red, 8 green, 1 blue; 13 red, 3 blue, 7 green; 6 green, 14 blue, 13 red; 15 blue, 9 green, 13 red
-Game 20: 1 red, 7 green, 5 blue; 14 green, 4 blue; 10 green, 11 blue, 2 red; 2 red, 3 blue, 1 green; 1 red, 5 blue, 8 green
-Game 21: 10 green, 12 blue, 6 red; 17 blue, 6 red, 6 green; 12 blue, 9 green, 4 red; 5 blue, 3 red, 4 green; 6 green, 7 blue, 5 red
-Game 22: 1 blue, 3 red, 16 green; 4 red, 1 blue, 3 green; 12 green, 1 blue, 2 red; 12 red
-Game 23: 2 red, 6 blue, 1 green; 11 red, 13 blue, 4 green; 8 red, 3 blue, 6 green; 2 green, 8 blue, 2 red; 7 red, 11 blue, 4 green
-Game 24: 4 red, 12 green, 2 blue; 8 blue, 15 red; 1 blue, 10 green, 8 red; 1 green, 2 blue, 6 red; 10 green, 8 blue, 5 red
-Game 25: 2 blue, 11 green; 17 green, 1 red, 2 blue; 2 blue, 3 red, 1 green
-Game 26: 16 blue, 11 green; 4 green; 9 green, 4 blue; 10 green, 5 blue; 1 red, 5 blue, 9 green; 5 green, 5 blue
-Game 27: 10 green, 2 red; 5 blue, 1 red; 6 red, 5 green
-Game 28: 3 red, 5 green, 10 blue; 1 red, 5 green, 2 blue; 6 blue, 2 green, 2 red; 6 red, 9 blue, 1 green; 3 red; 3 red, 2 green, 2 blue
-Game 29: 8 red, 18 blue, 5 green; 1 blue, 8 red, 2 green; 2 red, 4 green, 18 blue; 6 red, 4 green, 7 blue
-Game 30: 1 red, 18 green; 11 green; 4 blue, 5 red, 14 green; 3 green, 8 blue, 2 red
-Game 31: 1 red, 5 blue, 17 green; 7 blue; 10 green, 8 blue, 1 red; 11 green, 4 blue
-Game 32: 5 blue, 15 red, 12 green; 6 red, 8 green, 8 blue; 2 red, 14 green, 3 blue; 4 blue, 15 green; 7 blue, 12 red, 7 green; 2 blue, 9 red, 7 green
-Game 33: 13 red, 2 green; 1 green, 7 red, 15 blue; 1 green, 14 blue, 13 red; 8 red, 2 green; 12 red, 14 blue, 10 green; 8 green, 16 blue, 10 red
-Game 34: 11 green, 9 blue, 2 red; 4 red, 1 green, 8 blue; 4 blue, 7 green, 4 red; 7 blue, 1 red, 8 green; 9 blue, 1 red, 4 green; 2 red, 10 green, 4 blue
-Game 35: 3 red, 9 blue; 11 blue, 3 red, 12 green; 7 green, 10 blue, 2 red
-Game 36: 9 blue, 3 green, 3 red; 5 blue, 1 red, 3 green; 2 green, 6 red; 9 blue, 7 red
-Game 37: 1 red, 7 blue; 4 red, 1 green; 1 green, 9 red, 9 blue
-Game 38: 1 green, 12 red; 4 green, 12 red, 4 blue; 5 green, 10 red; 6 red, 4 green, 3 blue; 4 green, 10 red; 2 green, 5 blue, 4 red
-Game 39: 2 blue; 4 red; 4 red, 5 green, 1 blue
-Game 40: 7 red, 2 green, 17 blue; 12 green, 1 red, 7 blue; 9 green, 2 red, 8 blue
-Game 41: 18 green, 5 red, 4 blue; 20 green, 17 blue, 5 red; 3 red, 7 blue, 7 green; 4 red, 19 green, 18 blue; 20 blue, 20 green
-Game 42: 1 green, 6 blue, 1 red; 5 blue, 1 red, 3 green; 3 green, 7 blue, 1 red
-Game 43: 4 blue, 6 green, 13 red; 16 red, 7 blue, 8 green; 4 green, 16 red
-Game 44: 5 green, 4 red, 13 blue; 4 red, 12 blue, 3 green; 6 green
-Game 45: 1 red, 17 blue, 15 green; 6 red, 3 green, 9 blue; 5 green, 1 blue, 7 red; 6 blue, 4 red, 4 green
-Game 46: 1 blue, 11 red, 1 green; 2 red, 2 green, 1 blue; 4 red, 1 green, 1 blue; 2 blue, 7 red, 3 green; 11 red, 3 green
-Game 47: 2 red, 1 blue; 1 green, 1 red, 1 blue; 5 green, 1 red
-Game 48: 9 blue, 1 red; 1 green, 2 red, 11 blue; 2 red, 6 blue
-Game 49: 5 blue, 7 red, 17 green; 5 red, 4 green, 7 blue; 1 red, 3 blue; 4 red, 12 green, 6 blue; 6 green, 4 blue, 3 red
-Game 50: 11 blue, 12 green, 1 red; 8 green, 7 red, 9 blue; 13 red, 12 blue, 10 green; 5 green, 10 blue, 3 red
-Game 51: 8 blue, 1 red; 5 red, 2 green; 9 blue, 6 red, 4 green; 4 green, 1 red, 13 blue; 15 blue, 3 red, 8 green; 6 red, 1 green, 4 blue
-Game 52: 2 blue, 1 red; 1 red, 4 blue, 5 green; 3 red, 14 blue, 2 green
-Game 53: 8 blue, 10 green, 11 red; 5 red, 4 blue, 19 green; 8 red, 3 blue; 3 red, 3 blue, 2 green; 4 red, 4 green
-Game 54: 3 green, 17 red; 7 green, 13 red, 5 blue; 11 blue, 10 red, 10 green; 3 green, 19 red, 4 blue; 11 green, 6 blue, 19 red; 5 red, 4 blue, 9 green
-Game 55: 3 blue, 4 red; 1 red, 1 blue, 2 green; 4 blue, 2 green, 4 red
-Game 56: 10 red, 3 green, 5 blue; 2 blue, 2 red; 7 red, 3 blue, 2 green
-Game 57: 12 red, 1 blue, 8 green; 1 blue, 3 green, 10 red; 5 green, 8 red
-Game 58: 6 red, 4 green, 2 blue; 7 red, 6 blue, 14 green; 5 blue, 6 red, 2 green; 2 red, 4 blue; 7 blue, 12 green; 7 green, 3 blue, 8 red
-Game 59: 6 red, 5 blue; 5 blue, 1 green; 1 blue, 6 red; 4 blue, 2 red, 1 green; 3 red, 2 blue; 3 blue, 5 red, 1 green
-Game 60: 1 red, 12 green, 2 blue; 4 red, 5 blue; 12 green, 1 red; 5 blue, 13 red, 17 green; 15 green, 1 blue
-Game 61: 10 blue, 18 red; 4 blue, 1 green, 14 red; 4 blue, 2 green; 2 green, 6 red, 10 blue
-Game 62: 2 green, 13 blue, 8 red; 7 green, 5 red, 8 blue; 5 red, 8 blue; 3 red, 5 green, 4 blue; 15 blue, 5 red, 6 green
-Game 63: 6 red, 7 green, 2 blue; 2 red, 6 green; 2 blue, 4 red, 5 green; 1 blue, 2 red, 5 green; 4 red, 8 green; 9 green, 2 red
-Game 64: 4 red, 4 blue; 7 blue, 5 red; 8 green, 5 red, 6 blue; 2 red, 3 blue, 1 green; 7 blue, 9 green, 7 red; 11 green, 2 red, 3 blue
-Game 65: 1 red, 11 green, 9 blue; 2 red, 5 green, 17 blue; 2 red, 3 blue, 6 green; 2 red, 6 green, 14 blue
-Game 66: 7 green, 5 red, 2 blue; 5 red, 7 green, 2 blue; 6 green, 3 blue, 15 red; 8 green, 20 red, 4 blue; 8 red, 8 green, 3 blue; 3 blue, 11 red, 5 green
-Game 67: 2 blue, 2 green; 6 blue, 1 green, 3 red; 3 red, 7 green, 4 blue; 1 red, 1 green, 8 blue
-Game 68: 1 green, 3 red; 2 green, 1 blue, 5 red; 2 red, 2 green, 1 blue; 2 green, 3 red, 1 blue; 6 red, 1 blue
-Game 69: 4 red, 2 green, 3 blue; 14 red; 3 blue; 11 red, 1 green; 13 red, 3 green, 2 blue
-Game 70: 1 green, 1 blue, 6 red; 1 green, 4 red, 1 blue; 6 red, 1 blue
-Game 71: 1 green, 8 blue, 10 red; 6 green, 3 red, 2 blue; 14 red, 3 green; 9 blue, 2 green, 2 red; 7 blue, 5 red, 1 green; 6 green, 5 blue, 10 red
-Game 72: 2 red, 10 blue; 1 red, 7 blue, 4 green; 1 red, 3 green, 6 blue
-Game 73: 6 red, 6 blue, 5 green; 1 blue, 11 green, 7 red; 10 red, 7 blue, 2 green
-Game 74: 4 green, 2 red, 3 blue; 1 red, 6 green; 2 red, 4 blue; 1 blue; 2 blue, 1 green
-Game 75: 10 red, 5 blue, 1 green; 12 blue; 2 green, 11 blue, 9 red; 1 blue, 14 red; 2 red, 2 green, 13 blue
-Game 76: 9 green, 1 blue; 8 green, 2 blue, 7 red; 4 blue, 7 green, 4 red
-Game 77: 14 red, 3 blue, 10 green; 3 blue, 7 green, 2 red; 5 red, 7 green, 3 blue; 14 red, 8 green, 3 blue; 9 green, 5 red; 2 blue, 7 red, 15 green
-Game 78: 5 blue, 9 green, 8 red; 11 green, 9 blue, 4 red; 8 red, 2 blue, 10 green; 3 blue, 7 green
-Game 79: 4 red, 6 blue, 10 green; 2 blue, 17 green, 15 red; 15 red, 6 blue, 14 green
-Game 80: 2 red, 8 green; 6 blue, 6 green; 1 green, 3 red, 8 blue; 5 green, 4 blue, 3 red; 3 blue, 1 red; 7 green, 8 blue, 3 red
-Game 81: 5 blue, 1 red; 10 blue, 7 red, 3 green; 4 green, 1 red, 10 blue; 8 red, 4 blue, 3 green; 11 blue, 9 green, 1 red; 6 red, 10 green
-Game 82: 1 green, 2 blue, 1 red; 2 blue, 1 green, 2 red; 2 red, 8 green; 3 red, 3 blue, 5 green
-Game 83: 3 blue, 4 green, 5 red; 6 blue, 5 red, 5 green; 4 red, 2 blue, 5 green; 2 green, 6 blue, 5 red; 1 red, 2 green
-Game 84: 14 blue, 1 green; 9 green, 3 red, 1 blue; 5 green, 10 blue, 3 red; 9 green; 6 green, 18 blue; 2 red, 8 green
-Game 85: 1 blue, 7 red; 12 green, 7 red, 5 blue; 9 blue, 6 green, 7 red; 10 red, 7 green, 1 blue; 3 green, 6 blue, 7 red; 10 red, 16 blue
-Game 86: 9 red, 10 blue, 2 green; 2 red, 12 blue, 9 green; 11 green, 2 blue, 3 red
-Game 87: 1 blue, 7 red, 9 green; 1 red, 6 blue; 3 blue, 12 green
-Game 88: 1 blue, 4 green; 4 red, 13 blue, 1 green; 7 green, 4 blue, 3 red; 2 blue, 4 green, 5 red; 4 red, 7 green, 10 blue; 1 red, 7 green, 13 blue
-Game 89: 5 blue, 8 red, 1 green; 7 blue, 2 green, 7 red; 2 green, 8 blue, 11 red
-Game 90: 5 blue, 1 green, 11 red; 6 blue, 8 red; 2 red, 3 blue, 4 green; 2 green, 4 blue, 7 red; 3 blue, 8 red; 6 red, 3 blue, 1 green
-Game 91: 2 green, 13 red, 9 blue; 12 blue, 6 green; 14 green, 10 blue, 3 red; 13 blue, 7 green, 5 red; 1 green, 9 blue, 14 red; 10 green, 8 blue, 17 red
-Game 92: 10 green, 3 red, 17 blue; 13 red, 7 green, 15 blue; 9 blue, 8 red, 4 green; 1 blue, 8 red; 9 red, 1 green, 19 blue
-Game 93: 1 blue, 7 green, 4 red; 2 blue, 8 green; 10 red, 10 green, 1 blue; 10 green, 2 blue; 3 red, 3 blue
-Game 94: 5 red, 8 green, 14 blue; 4 red, 7 green, 20 blue; 11 blue, 4 red, 13 green; 18 blue, 1 red, 3 green
-Game 95: 5 red, 8 green, 11 blue; 12 green, 5 blue; 4 blue, 14 green; 7 green, 9 blue, 5 red; 3 red, 4 green, 7 blue; 3 red, 12 blue, 3 green
-Game 96: 10 red, 12 blue, 9 green; 4 green, 8 blue, 4 red; 8 blue, 3 red, 4 green; 6 green, 10 red; 2 blue, 3 green, 15 red; 12 red, 2 green, 2 blue
-Game 97: 13 green, 1 blue; 9 green, 1 red, 1 blue; 6 blue, 10 green; 1 red, 6 blue, 11 green
-Game 98: 2 blue, 14 green, 2 red; 7 green, 1 blue; 1 blue, 1 red, 3 green; 2 red, 1 blue, 15 green; 1 blue, 2 red, 10 green
-Game 99: 3 green, 8 red, 7 blue; 6 red, 13 blue; 12 red, 4 green, 4 blue; 12 red, 8 green, 3 blue; 11 blue, 11 red, 4 green
-Game 100: 2 red, 13 blue, 1 green; 1 green, 12 blue; 1 red, 5 blue, 1 green; 3 blue, 3 red
+1,12blue,15red,2green;17red,8green,5blue;8red,17blue;9green,1blue,4red
+2,6red,6blue,2green;1blue,1red;6green,1red,10blue
+3,1green,2blue;7blue,4green;2green,1blue;10blue,4green;4blue;1green,7blue,1red
+4,16red,12blue,10green;15red,5green,6blue;10green,15red,12blue
+5,2green,2red,9blue;1red,5green;4green,12blue,1red;5blue,8green
+6,17blue,3green,4red;6green,16blue,3red;2red,15blue
+7,4green,10red;1green,4red,4blue;4blue,11red
+8,8green,4blue;17green,4red;10blue,5green,9red;9green,8red,3blue;9green,5red,2blue
+9,4red,2green;7blue,3red,3green;3green,7blue,3red
+10,3green,2red,2blue;3green,11red,1blue;16green,11red
+11,2blue,18green;12blue,1green;2green,6blue;1red,4blue,20green;14blue,1red,4green
+12,2green,1blue,7red;11red,3green,6blue;1red,2blue,3green;4red,2green,5blue
+13,4red,17blue,5green;6blue,2green;12blue,4green,2red;5green,9blue;5green,3blue,3red;4green,1red,7blue
+14,4blue,18green;3blue,3red,13green;5blue,10green;10green,2blue;1blue,14green;3blue,18green,2red
+15,1green,2blue,1red;1green,2red,1blue;1green,2red;1green,4blue,4red;6blue,2red,1green;3blue,2red
+16,3green,2red;4green,1red,8blue;5blue,9red,3green;7blue,19green,18red
+17,10blue,9red,7green;16red,11green,11blue;8blue,3green;12red,1blue,10green
+18,11green,11blue,5red;7red,11green,13blue;5green,9red,6blue;9red,16green,17blue
+19,8red,3green,16blue;13green,8blue;7red,8green,1blue;13red,3blue,7green;6green,14blue,13red;15blue,9green,13red
+20,1red,7green,5blue;14green,4blue;10green,11blue,2red;2red,3blue,1green;1red,5blue,8green
+21,10green,12blue,6red;17blue,6red,6green;12blue,9green,4red;5blue,3red,4green;6green,7blue,5red
+22,1blue,3red,16green;4red,1blue,3green;12green,1blue,2red;12red
+23,2red,6blue,1green;11red,13blue,4green;8red,3blue,6green;2green,8blue,2red;7red,11blue,4green
+24,4red,12green,2blue;8blue,15red;1blue,10green,8red;1green,2blue,6red;10green,8blue,5red
+25,2blue,11green;17green,1red,2blue;2blue,3red,1green
+26,16blue,11green;4green;9green,4blue;10green,5blue;1red,5blue,9green;5green,5blue
+27,10green,2red;5blue,1red;6red,5green
+28,3red,5green,10blue;1red,5green,2blue;6blue,2green,2red;6red,9blue,1green;3red;3red,2green,2blue
+29,8red,18blue,5green;1blue,8red,2green;2red,4green,18blue;6red,4green,7blue
+30,1red,18green;11green;4blue,5red,14green;3green,8blue,2red
+31,1red,5blue,17green;7blue;10green,8blue,1red;11green,4blue
+32,5blue,15red,12green;6red,8green,8blue;2red,14green,3blue;4blue,15green;7blue,12red,7green;2blue,9red,7green
+33,13red,2green;1green,7red,15blue;1green,14blue,13red;8red,2green;12red,14blue,10green;8green,16blue,10red
+34,11green,9blue,2red;4red,1green,8blue;4blue,7green,4red;7blue,1red,8green;9blue,1red,4green;2red,10green,4blue
+35,3red,9blue;11blue,3red,12green;7green,10blue,2red
+36,9blue,3green,3red;5blue,1red,3green;2green,6red;9blue,7red
+37,1red,7blue;4red,1green;1green,9red,9blue
+38,1green,12red;4green,12red,4blue;5green,10red;6red,4green,3blue;4green,10red;2green,5blue,4red
+39,2blue;4red;4red,5green,1blue
+40,7red,2green,17blue;12green,1red,7blue;9green,2red,8blue
+41,18green,5red,4blue;20green,17blue,5red;3red,7blue,7green;4red,19green,18blue;20blue,20green
+42,1green,6blue,1red;5blue,1red,3green;3green,7blue,1red
+43,4blue,6green,13red;16red,7blue,8green;4green,16red
+44,5green,4red,13blue;4red,12blue,3green;6green
+45,1red,17blue,15green;6red,3green,9blue;5green,1blue,7red;6blue,4red,4green
+46,1blue,11red,1green;2red,2green,1blue;4red,1green,1blue;2blue,7red,3green;11red,3green
+47,2red,1blue;1green,1red,1blue;5green,1red
+48,9blue,1red;1green,2red,11blue;2red,6blue
+49,5blue,7red,17green;5red,4green,7blue;1red,3blue;4red,12green,6blue;6green,4blue,3red
+50,11blue,12green,1red;8green,7red,9blue;13red,12blue,10green;5green,10blue,3red
+51,8blue,1red;5red,2green;9blue,6red,4green;4green,1red,13blue;15blue,3red,8green;6red,1green,4blue
+52,2blue,1red;1red,4blue,5green;3red,14blue,2green
+53,8blue,10green,11red;5red,4blue,19green;8red,3blue;3red,3blue,2green;4red,4green
+54,3green,17red;7green,13red,5blue;11blue,10red,10green;3green,19red,4blue;11green,6blue,19red;5red,4blue,9green
+55,3blue,4red;1red,1blue,2green;4blue,2green,4red
+56,10red,3green,5blue;2blue,2red;7red,3blue,2green
+57,12red,1blue,8green;1blue,3green,10red;5green,8red
+58,6red,4green,2blue;7red,6blue,14green;5blue,6red,2green;2red,4blue;7blue,12green;7green,3blue,8red
+59,6red,5blue;5blue,1green;1blue,6red;4blue,2red,1green;3red,2blue;3blue,5red,1green
+60,1red,12green,2blue;4red,5blue;12green,1red;5blue,13red,17green;15green,1blue
+61,10blue,18red;4blue,1green,14red;4blue,2green;2green,6red,10blue
+62,2green,13blue,8red;7green,5red,8blue;5red,8blue;3red,5green,4blue;15blue,5red,6green
+63,6red,7green,2blue;2red,6green;2blue,4red,5green;1blue,2red,5green;4red,8green;9green,2red
+64,4red,4blue;7blue,5red;8green,5red,6blue;2red,3blue,1green;7blue,9green,7red;11green,2red,3blue
+65,1red,11green,9blue;2red,5green,17blue;2red,3blue,6green;2red,6green,14blue
+66,7green,5red,2blue;5red,7green,2blue;6green,3blue,15red;8green,20red,4blue;8red,8green,3blue;3blue,11red,5green
+67,2blue,2green;6blue,1green,3red;3red,7green,4blue;1red,1green,8blue
+68,1green,3red;2green,1blue,5red;2red,2green,1blue;2green,3red,1blue;6red,1blue
+69,4red,2green,3blue;14red;3blue;11red,1green;13red,3green,2blue
+70,1green,1blue,6red;1green,4red,1blue;6red,1blue
+71,1green,8blue,10red;6green,3red,2blue;14red,3green;9blue,2green,2red;7blue,5red,1green;6green,5blue,10red
+72,2red,10blue;1red,7blue,4green;1red,3green,6blue
+73,6red,6blue,5green;1blue,11green,7red;10red,7blue,2green
+74,4green,2red,3blue;1red,6green;2red,4blue;1blue;2blue,1green
+75,10red,5blue,1green;12blue;2green,11blue,9red;1blue,14red;2red,2green,13blue
+76,9green,1blue;8green,2blue,7red;4blue,7green,4red
+77,14red,3blue,10green;3blue,7green,2red;5red,7green,3blue;14red,8green,3blue;9green,5red;2blue,7red,15green
+78,5blue,9green,8red;11green,9blue,4red;8red,2blue,10green;3blue,7green
+79,4red,6blue,10green;2blue,17green,15red;15red,6blue,14green
+80,2red,8green;6blue,6green;1green,3red,8blue;5green,4blue,3red;3blue,1red;7green,8blue,3red
+81,5blue,1red;10blue,7red,3green;4green,1red,10blue;8red,4blue,3green;11blue,9green,1red;6red,10green
+82,1green,2blue,1red;2blue,1green,2red;2red,8green;3red,3blue,5green
+83,3blue,4green,5red;6blue,5red,5green;4red,2blue,5green;2green,6blue,5red;1red,2green
+84,14blue,1green;9green,3red,1blue;5green,10blue,3red;9green;6green,18blue;2red,8green
+85,1blue,7red;12green,7red,5blue;9blue,6green,7red;10red,7green,1blue;3green,6blue,7red;10red,16blue
+86,9red,10blue,2green;2red,12blue,9green;11green,2blue,3red
+87,1blue,7red,9green;1red,6blue;3blue,12green
+88,1blue,4green;4red,13blue,1green;7green,4blue,3red;2blue,4green,5red;4red,7green,10blue;1red,7green,13blue
+89,5blue,8red,1green;7blue,2green,7red;2green,8blue,11red
+90,5blue,1green,11red;6blue,8red;2red,3blue,4green;2green,4blue,7red;3blue,8red;6red,3blue,1green
+91,2green,13red,9blue;12blue,6green;14green,10blue,3red;13blue,7green,5red;1green,9blue,14red;10green,8blue,17red
+92,10green,3red,17blue;13red,7green,15blue;9blue,8red,4green;1blue,8red;9red,1green,19blue
+93,1blue,7green,4red;2blue,8green;10red,10green,1blue;10green,2blue;3red,3blue
+94,5red,8green,14blue;4red,7green,20blue;11blue,4red,13green;18blue,1red,3green
+95,5red,8green,11blue;12green,5blue;4blue,14green;7green,9blue,5red;3red,4green,7blue;3red,12blue,3green
+96,10red,12blue,9green;4green,8blue,4red;8blue,3red,4green;6green,10red;2blue,3green,15red;12red,2green,2blue
+97,13green,1blue;9green,1red,1blue;6blue,10green;1red,6blue,11green
+98,2blue,14green,2red;7green,1blue;1blue,1red,3green;2red,1blue,15green;1blue,2red,10green
+99,3green,8red,7blue;6red,13blue;12red,4green,4blue;12red,8green,3blue;11blue,11red,4green
+100,2red,13blue,1green;1green,12blue;1red,5blue,1green;3blue,3red
